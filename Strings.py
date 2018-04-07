@@ -27,7 +27,7 @@ List = My_string.split()
 print(List)
 print(type(List))
 
-print('{0:=<8} | {1:-^8} | {2:=>8}'.format('Left','Center','Right'))
+print('{0:} | {1:-^8} | {2:=>8}'.format('Left','Center','Right'))
 
 num = 3.4567899
 num1 = 4.54678
