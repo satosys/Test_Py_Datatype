@@ -46,6 +46,7 @@ d = {'k1':[1,2,{'k2':['this is tricky',{'tough':[1,2,['hello']]}]}]}
 
 print(d['k1'][2]['k2'][1]['tough'][2][0])
 
+#Checking the result.
 
 l_one = [1,2,[3,4]]
 l_two = [1,2,{'k1':4}]
