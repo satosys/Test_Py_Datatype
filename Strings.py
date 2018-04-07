@@ -11,3 +11,7 @@ print(S[1])
 
 print(S[0:-1])
 print(S[0:])
+
+My_string = 'I am a good boy with no skills'
+
+print(len(S))
