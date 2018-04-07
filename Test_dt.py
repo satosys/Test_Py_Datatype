@@ -1,13 +1,13 @@
-from sys import argv
+a = 30
 
-sys.argv[0] ='first'
-sys.argv[1] ='first'
-sys.argv[2] ='first'
-sys.argv[3] ='first'
+print(type(a))
 
-from sys import argv
+print('Hello \nWorld')
 
-sys.argv[0] ='first'
-sys.argv[1] ='first'
-sys.argv[2] ='first'
-sys.argv[3] ='first'
+S = "Satyajit Das"
+
+print(S[-1-2-3])
+print(S[1])
+
+print(S[0:-1])
+print(S[0:])
